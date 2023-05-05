@@ -1,9 +1,9 @@
 # ODIN-CSSE4011
-Project repository for CSSE4011, team Odin.
+**Project repository for CSSE4011, Team Odin.**
 
 ## Team Members:
 1. Cody Burnett
-2. Declan McMahom
+2. Declan McMahon
 3. Lachlan Edwards
 4. Riley Mosca
 
